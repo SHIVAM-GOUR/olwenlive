@@ -1,0 +1,38 @@
+:root{
+    --logoOrange : #F26532;
+    --logoGreen: #8CC63C;
+  }
+
+.navbar{
+    box-shadow: 0px 0px 10px grey;
+    width: 100vw;
+    height: 73px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid var(--logoOrange);
+    padding: 0px 100px;
+}
+
+.navLogo{
+    height: 80%;
+}
+.navLogo:hover{
+    cursor: pointer;
+}
+
+.navLink{
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding-left: 20px;
+}
+.navLink:hover{
+    color: var(--logoOrange);
+}
+
+@media screen and (max-width: 769px) {
+    .navbar{
+        padding: 0 10px;
+    }
+}
