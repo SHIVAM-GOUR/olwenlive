@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/olwenlive/static/css/main.e3281d5f.css",
+    "main.js": "/olwenlive/static/js/main.7653c50f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/olwenlive/static/js/787.28cb0dcd.chunk.js",
+    "static/media/poster3.jpg": "/olwenlive/static/media/poster3.12266d302698dbc2df9e.jpg",
+    "static/media/product2.jpg": "/olwenlive/static/media/product2.25e593feb65688d8268e.jpg",
+    "static/media/poster2.jpg": "/olwenlive/static/media/poster2.0ae0932689e64a8582ee.jpg",
+    "static/media/product7.jpg": "/olwenlive/static/media/product7.6391547a3c3444e6ae2f.jpg",
+    "static/media/product8.jpg": "/olwenlive/static/media/product8.5617ae8ce0b008dcbb96.jpg",
+    "static/media/product6.jpg": "/olwenlive/static/media/product6.db91b4516305a33e6749.jpg",
+    "static/media/poster6.jpg": "/olwenlive/static/media/poster6.0951c3f8789dfc2693ab.jpg",
+    "static/media/poster4.jpg": "/olwenlive/static/media/poster4.a43d72b06c55d736191d.jpg",
+    "static/media/product3.jpg": "/olwenlive/static/media/product3.dbcf920a159a3b9cb573.jpg",
+    "static/media/product1.jpg": "/olwenlive/static/media/product1.cce95d51b3b5e996a0f7.jpg",
+    "static/media/product4.jpg": "/olwenlive/static/media/product4.4223917e43847be76e35.jpg",
+    "static/media/poster1.jpg": "/olwenlive/static/media/poster1.ad3d0549e36beec5b176.jpg",
+    "static/media/product5.jpg": "/olwenlive/static/media/product5.fb57748f80309f96c082.jpg",
+    "static/media/poster5.jpg": "/olwenlive/static/media/poster5.dab5dee9b80e5fc6307f.jpg",
+    "static/media/MainLogoWhite.png": "/olwenlive/static/media/MainLogoWhite.02ae6dc826a529e39612.png",
+    "index.html": "/olwenlive/index.html",
+    "main.e3281d5f.css.map": "/olwenlive/static/css/main.e3281d5f.css.map",
+    "main.7653c50f.js.map": "/olwenlive/static/js/main.7653c50f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/olwenlive/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3281d5f.css",
+    "static/js/main.7653c50f.js"
+  ]
+}
