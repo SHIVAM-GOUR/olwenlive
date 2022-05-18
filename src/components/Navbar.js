@@ -12,7 +12,7 @@ function Navbar() {
                 <img src={whilteLogo} alt="brand Logo" className='navLogo' />
                 </Link>
                 <div className="navLinks">
-                    <a href="/about" className="navLink" >ABOUT</a>
+                    <a href="/about" className="navLink" >About</a>
                     <a href="#" className="navLink">CONTACT</a>
                 </div>
             </div>
